@@ -14,7 +14,6 @@ struct CustomTabbarView: View {
         ZStack{
             Color(.black)
             HStack{
-                
                 ForEach(TabBarOptionModel.allCases, id: \.id) { tab in
                     Spacer()
                     TabDesign(tab: tab, selectedTab: $selectedTab)

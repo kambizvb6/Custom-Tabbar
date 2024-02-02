@@ -80,7 +80,6 @@
 			children = (
 				08572C402B6A1D2700CBD555 /* Model */,
 				08572C422B6A1D2E00CBD555 /* View */,
-				08572C412B6A1D2A00CBD555 /* ViewModel */,
 			);
 			path = Tabbar;
 			sourceTree = "<group>";
@@ -100,13 +99,6 @@
 				08D519F62B6C7511001ACDCB /* TabBarModel.swift */,
 			);
 			path = Model;
-			sourceTree = "<group>";
-		};
-		08572C412B6A1D2A00CBD555 /* ViewModel */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = ViewModel;
 			sourceTree = "<group>";
 		};
 		08572C422B6A1D2E00CBD555 /* View */ = {
